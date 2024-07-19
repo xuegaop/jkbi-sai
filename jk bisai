@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全国物理实验大赛</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        h1 {
+            font-size: 2.3em;
+        }
+        h2 {
+            font-size: 1.9em;
+            color: #555;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            font-size: 1em;
+            margin: 20px 0;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>全国物理实验大赛</h1>
+    <h2>讲课类比赛</h2>
+    <input type="text" placeholder="请提出您宝贵的意见">
+    <button onclick="alert('感谢您的反馈！！！')">提交</button>
+    <strong>程序文件https://wwt.lanzn.com/i1Zsb24zgpzi  密码:jkbs</strong>
+</body>
+</html>
